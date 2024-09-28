@@ -8,9 +8,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bklv-kirill&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bklv-kirill&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bklv-kirill&icon=6&color=0)](https://visitcount.itsvg.in)
 
